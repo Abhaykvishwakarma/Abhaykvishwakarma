@@ -1,16 +1,42 @@
-## Hi there 👋
+# Hey, I'm Abhay 👋
 
-<!--
-**Abhaykvishwakarma/Abhaykvishwakarma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Software Developer | Python | Backend Development
 
-Here are some ideas to get you started:
+I enjoy building software, solving problems, and exploring technologies that make development more efficient.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💻 Interested in Python, Backend Development, and Software Engineering
+- 🌱 Currently exploring FastAPI, PostgreSQL, and Machine Learning
+- 🛠️ Building projects and continuously improving my skills
+- 🎯 Focused on writing clean, maintainable, and efficient code
+
+---
+
+### Tech Stack
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,fastapi,postgres,git,github,linux,vscode" />
+</p>
+
+---
+
+### Featured Projects
+
+🚀 Check out my repositories to explore projects I've built and technologies I'm learning.
+
+---
+
+### GitHub Analytics
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&theme=github_dark)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&theme=github_dark)
+
+---
+
+### Connect
+
+[GitHub](https://github.com/YOUR_USERNAME) · [LinkedIn](YOUR_LINKEDIN_URL)
+
+---
+
+*Building. Learning. Improving.*
