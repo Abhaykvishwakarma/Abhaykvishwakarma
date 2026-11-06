@@ -27,15 +27,15 @@ I enjoy building software, solving problems, and exploring technologies that mak
 
 ### GitHub Analytics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&theme=github_dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Abhaykvishwakarma&show_icons=true&hide_border=true&theme=github_dark)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&theme=github_dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhaykvishwakarma&layout=compact&hide_border=true&theme=github_dark)
 
 ---
 
 ### Connect
 
-[GitHub](https://github.com/YOUR_USERNAME) · [LinkedIn](YOUR_LINKEDIN_URL)
+[GitHub](https://github.com/Abhaykvishwakarma) · [LinkedIn](YOUR_LINKEDIN_URL)
 
 ---
 
